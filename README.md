@@ -18,7 +18,7 @@ Welcome to the Nostra E-Commerce Website Project!  Nostra is a responsive eComme
 - **JavaScript**: Adds dynamic behavior, such as cart management, form validation, and interactive elements.
 
   ## Live Demo:
-  Check out the live version of the Nostra E-Commerce Website[]
+  Check out the live version of the Nostra E-Commerce Website[https://nivetha-1718.github.io/Nostra-E-commerce-Website/]
   
   ## CSS Styles:
 - **Homepage**: Showcases featured products and promotional banners with clear, visually appealing layouts.
